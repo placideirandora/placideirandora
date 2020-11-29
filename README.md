@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UX/UI Designer, Software Engineer, and Cybersecurity Specialist. I live in Kigali, Rwanda, and I have over 2 years of professional experience in software development with various trending technologies such as React, Vue, Angular & NodeJS, Django, ASP.NET Core, etc.
+I'm a UX/UI Designer, **Software Engineer**, and Cybersecurity Specialist. I live in **Kigali, Rwanda**, and I have over 2 years of professional experience in software development with various trending technologies such as **React**, **Vue**, **Angular** & **NodeJS**, **Django**, **ASP.NET Core**, etc.
 
 
 ### Work
