@@ -21,10 +21,10 @@ I'm a UX/UI Designer, **Software Engineer**, and Cybersecurity Specialist. I liv
 Engineering high-quality and secure software.
 
 ### Work
-- **Bongalo**: working as a **Full-Stack Engineer** and have developed a lot of features with **Vue/Django** for improving the UI/UX of traveler booking on the platform. Period: July 2020 - Present. Official site: [Bongalo](https://bongalo.co/).
-- **Balymus**: working as a **Full-Stak Engineer** and have developed a lot features with **Angualar/Node/Express/Sequelize** including an audio player for streaming music online. Period: June 2020 - Present. Official site: [Balymus](https://www.balymus.com/)
-- **Andela**: worked as a **UX/UI Design Mockups Reviewer**, **Full-Stack Technical Team Lead** responsible for reviewing product (Figma) mockups, leading a development team, and responsible for the quality of its technical deliverables with **React/Redux/Node/Express/Sequelize**. Period: July 2019 - June 2020. Official site: [Andela](https://andela.com/).
-- **Lifestores Pharmacy**: worked as a **Front-End Engineer** and developed several UI features with **React/MaterialUI** including pharmacy business information update, business owner to add users to their business, and pharmacy to make drug orders from their suppliers. Period: December 2019 - February 2020. Official site: [Lifestores Pharmacy](https://lifestorespharmacy.com/)
+- **Bongalo**: working as a **Full-Stack Engineer** and have developed a lot of features with **Vue/Django** for improving the UI/UX of traveler booking on the platform. Official site: [Bongalo](https://bongalo.co/).
+- **Balymus**: working as a **Full-Stak Engineer** and have developed a lot features with **Angualar/Node/Express/Sequelize** including an audio player for streaming music online. Official site: [Balymus](https://www.balymus.com/)
+- **Andela**: worked as a **UX/UI Design Mockups Reviewer**, **Full-Stack Technical Team Lead** responsible for reviewing product (Figma) mockups, leading a development team, and responsible for the quality of its technical deliverables with **React/Redux/Node/Express/Sequelize**. Official site: [Andela](https://andela.com/).
+- **Lifestores Pharmacy**: worked as a **Front-End Engineer** and developed several UI features with **React/MaterialUI** including pharmacy business information update, business owner to add users to their business, and pharmacy to make drug orders from their suppliers. Official site: [Lifestores Pharmacy](https://lifestorespharmacy.com/)
 
 
 ### Contact
