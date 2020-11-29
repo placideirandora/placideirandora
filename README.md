@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm a UX/UI Designer, **Software Engineer**, and Cybersecurity Specialist. I live in **Kigali, Rwanda**, and I have over 2 years of professional experience in software development with various trending technologies such as **React**, **Vue**, **Angular**, **NodeJS**, **Django**, **ASP.NET Core**, etc...
 
+### Vision
+Engineering high-quality and secure software.
 
 ### Work
 - **Bongalo**: working as a **Full-Stack Engineer** and have developed a lot of features with **Vue/Django** for improving the UI/UX of traveler booking on the platform. Official site: [Bongalo](https://bongalo.co/).
