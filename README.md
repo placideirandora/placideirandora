@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm a UX/UI Designer and **Software Engineer**. I live in **Kigali**, **Rwanda**, and have over 2.5 years of professional experience in software development with various trending technologies such as **React**, **Vue**, **Angular**, **Express**, **Django**, **ASP.NET Core**, etc...
 
-### Vision as a Software Engineer
-Engineering high-quality and secure software.
-
 ### Vision as a UX/UI Designer
 Designing products that are useful and beautiful.
+
+### Vision as a Software Engineer
+Engineering high-quality and secure software.
 
 ### Work
 - **Bongalo**: worked as a **Full-Stack Engineer** and have developed several features with **Nuxt/Vue/Django** for improving the UI/UX of traveler booking on the platform. Official site: [Bongalo](https://bongalo.co/)
