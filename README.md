@@ -29,6 +29,6 @@ Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/p
 
 ### Contact
 
-📫 Reach me on [Twitter](https://twitter.com/placiderapson), on [LinkedIn](https://www.linkedin.com/in/placiderapson/).
+📫 Reach me on [Twitter](https://twitter.com/placiderapson) and [LinkedIn](https://www.linkedin.com/in/placiderapson/).
 
 
