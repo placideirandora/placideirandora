@@ -24,7 +24,7 @@ Designing products that are useful and beautiful.
 Engineering high-quality and secure software.
 
 ### Experience
-Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/placiderapson/).
+Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/placideirandora/).
 
 
 ### Contact
