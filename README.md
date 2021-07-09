@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwanda**, and have 3 years of professional experience in software development. I am familiar with the following various trending technologies such as **React**, **Angular**, **Vue**, **Express**, **Django**, **ASP.NET**, **React Native**, & **Flutter**.
+I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwanda**, and have 3 years of professional experience in software development. I am familiar with the following various trending technologies: **React**, **Angular**, **Vue**, **Express**, **Django**, **ASP.NET**, **React Native**, and **Flutter**.
 
 ### Vision as a UX/UI Designer
 Designing products that are useful and beautiful.
