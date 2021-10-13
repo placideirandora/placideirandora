@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![wakatime](https://wakatime.com/badge/user/4025933c-84c6-4f67-aacc-116e42e05bb9.svg)](https://wakatime.com/@4025933c-84c6-4f67-aacc-116e42e05bb9)
 
 I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwanda**, and have 3 years of professional experience in software development. I am familiar with the following trending software technologies: **React**, **Angular**, **Vue** on the Front-End, **NodeJS**, **Django**, **ASP.NET** on the Back-End, **React Native**, **Flutter** on the Mobile, and **Docker**, **Kubernetes**, **GitHub Actions**, **Firebase**, **Digital Ocean**, **AWS** in DevOps and Cloud Computing.
 
@@ -30,5 +31,6 @@ Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/p
 ### Contact
 
 📫 Reach me on [Twitter](https://twitter.com/placideirandora) and [LinkedIn](https://www.linkedin.com/in/placideirandora/).
+
 
 
