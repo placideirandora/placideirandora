@@ -33,8 +33,8 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 
 #### BACKEND FRAMEWORKS
 
-- NodeJS
 - Django
+- NodeJS
 - ASP.NET
 - Spring Boot
 
