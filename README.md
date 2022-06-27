@@ -30,6 +30,15 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 - Vue 
 - React
 - Angular
+- Next
+- Quasar
+
+#### UI FRAMEWORKS
+
+- Veutify
+- Material UI
+- Semantic UI
+- Angular Material
 
 #### BACKEND FRAMEWORKS
 
