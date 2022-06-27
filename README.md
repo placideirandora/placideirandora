@@ -52,8 +52,8 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 #### DATABASE SYSTEMS
 
 - [Redis](https://redis.io)
-- [MySQL](https://www.mysql.com)
 - [SQLite](https://www.sqlite.org)
+- [MySQL](https://www.mysql.com)
 - [MongoDB](https://www.mongodb.com)
 - [PostgreSQL](https://www.postgresql.org)
 
