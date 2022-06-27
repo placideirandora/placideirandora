@@ -20,49 +20,58 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 
 #### LANGUAGES
 
-- C#
-- Java
-- Python
-- JavaScript/TypeScript
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp)
+- [Java](https://docs.oracle.com/en/java)
+- [Python](https://docs.python.org/3)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org)
 
 #### FRONTEND FRAMEWORKS
 
-- Vue 
-- Next
-- Nuxt
-- React
-- Quasar
-- Angular
+- [Vue](https://vuejs.org)
+- [Next](https://nextjs.org)
+- [Nuxt](https://nuxtjs.org)
+- [React](https://reactjs.org)
+- [Quasar](https://quasar.dev)
+- [Angular](https://angular.io)
 
 #### UI FRAMEWORKS
 
-- Veutify
-- Material UI
-- Semantic UI
-- Angular Material
+- [Veutify](https://vuetifyjs.com)
+- [Material UI](https://mui.com)
+- [Semantic UI](https://semantic-ui.com)
+- [Angular Material](https://material.angular.io)
 
 #### BACKEND FRAMEWORKS
 
-- Django
-- NodeJS
-- ASP.NET
-- Spring Boot
+- [Django](https://www.djangoproject.com)
+- [NodeJS](https://nodejs.org/en)
+- [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
 #### MOBILE FRAMEWORKS
 
-- Flutter
-- React Native
+- [Flutter](https://flutter.dev)
+- [React Native](https://reactnative.dev)
+
+#### Testing Frameworks
+
+- [Jest](https://jestjs.io)
+- [xUnit](https://xunit.net)
+- [JUnit](https://junit.org)
+- [Mocha](https://mochajs.org)
+- [PyTest](https://docs.pytest.org/en)
+- [Cypress](https://www.cypress.io)
+- [Testing Library](https://testing-library.com)
 
 #### DEVOPS
 
-- AWS
-- Heroku
-- Docker
-- Netlify
-- Firebase
-- Kubernetes
-- Digital Ocean
-- GitHub Actions
+- [AWS](https://aws.amazon.com)
+- [Docker](https://www.docker.com)
+- [Firebase](https://firebase.google.com)
+- [Kubernetes](https://kubernetes.io)
+- [Digital Ocean](https://www.digitalocean.com)
+- [GitHub Actions](https://github.com/features/actions)
 
 ### Vision as a UX/UI Designer
 
