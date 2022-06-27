@@ -60,7 +60,7 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 - [xUnit](https://xunit.net)
 - [JUnit](https://junit.org)
 - [Mocha](https://mochajs.org)
-- [PyTest](https://docs.pytest.org/en)
+- [PyTest](https://docs.pytest.org)
 - [Cypress](https://www.cypress.io)
 - [Testing Library](https://testing-library.com)
 
