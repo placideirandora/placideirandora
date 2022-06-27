@@ -28,10 +28,11 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 #### FRONTEND FRAMEWORKS
 
 - Vue 
-- React
-- Angular
 - Next
+- Nuxt
+- React
 - Quasar
+- Angular
 
 #### UI FRAMEWORKS
 
