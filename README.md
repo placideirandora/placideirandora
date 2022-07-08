@@ -32,7 +32,6 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 - [Next](https://nextjs.org)
 - [Nuxt](https://nuxtjs.org)
 - [React](https://reactjs.org)
-- [Quasar](https://quasar.dev)
 - [Angular](https://angular.io)
 
 #### UI FRAMEWORKS
@@ -59,14 +58,12 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 
 #### MOBILE FRAMEWORKS
 
-- [Flutter](https://flutter.dev)
 - [React Native](https://reactnative.dev)
 
 #### Testing Frameworks
 
 - [Jest](https://jestjs.io)
 - [xUnit](https://xunit.net)
-- [JUnit](https://junit.org)
 - [Mocha](https://mochajs.org)
 - [PyTest](https://docs.pytest.org)
 - [Cypress](https://www.cypress.io)
@@ -77,7 +74,6 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 - [AWS](https://aws.amazon.com)
 - [Docker](https://www.docker.com)
 - [Firebase](https://firebase.google.com)
-- [Kubernetes](https://kubernetes.io)
 - [Digital Ocean](https://www.digitalocean.com)
 - [GitHub Actions](https://github.com/features/actions)
 
