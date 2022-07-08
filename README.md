@@ -23,8 +23,7 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp)
 - [Java](https://docs.oracle.com/en/java)
 - [Python](https://docs.python.org/3)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [TypeScript](https://www.typescriptlang.org)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [TypeScript](https://www.typescriptlang.org)
 
 #### FRONTEND FRAMEWORKS
 
