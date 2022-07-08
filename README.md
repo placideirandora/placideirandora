@@ -27,11 +27,9 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 
 #### FRONTEND FRAMEWORKS
 
-- [Vue](https://vuejs.org)
-- [Next](https://nextjs.org)
-- [Nuxt](https://nuxtjs.org)
-- [React](https://reactjs.org)
 - [Angular](https://angular.io)
+- [Vue](https://vuejs.org) | [Nuxt](https://nuxtjs.org)
+- [React](https://reactjs.org) | [Next](https://nextjs.org)
 
 #### UI FRAMEWORKS
 
