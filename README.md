@@ -65,7 +65,7 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### Testing Frameworks
+#### TESTING FRAMEWORKS
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)\
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)\
