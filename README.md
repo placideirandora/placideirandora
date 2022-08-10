@@ -110,7 +110,6 @@ I'm a **UX/UI Designer** and **Software Engineer**. I live in **Kigali**, **Rwan
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)\
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-![Profile views](https://gpvc.arturio.dev/[placideirandora])
 
 ### Vision as a UX/UI Designer
 
@@ -130,4 +129,8 @@ Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/p
 📫 Reach me on [Twitter](https://twitter.com/placideirandora) and [LinkedIn](https://www.linkedin.com/in/placideirandora/).
 
 
+
+[![Placide's GitHub stats](https://github-readme-stats.vercel.app/api?username=placideirandora&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placideirandora&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
