@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a **Software Engineer** specializing in **React** & **Vue** on the Front-End, **Node.js** & **Django** on the Back-End, **Flutter** & **React Native** on the Mobile. I live in **Kigali**, **Rwanda**, and have **4** years of professional experience in software development. 
 
-I enjoy working in an **environment** that challenges me to grow in my career with both **technical** and **soft** skills.
+I enjoy working in a **friendly environment** that challenges me to grow in my career with both **technical** and **soft** skills.
 
 #### LANGUAGES
 
