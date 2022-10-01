@@ -82,7 +82,7 @@ Designing products that are useful and beautiful.
 
 ### Vision as a Software Engineer
 
-Engineering high-quality and secure software.
+Engineering high-quality, scalable, and secure software.
 
 ### Experience
 
