@@ -95,7 +95,3 @@ Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/p
 
 
 
-[![Placide's GitHub stats](https://github-readme-stats.vercel.app/api?username=placideirandora&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placideirandora&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
