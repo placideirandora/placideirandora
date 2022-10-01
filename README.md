@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/4025933c-84c6-4f67-aacc-116e42e05bb9.svg)](https://wakatime.com/@4025933c-84c6-4f67-aacc-116e42e05bb9)
 
-I'm a **Software Engineer** specializing in **React** & **Vue** on the Front-End, **Node.js** & **Django** on the Back-End, **Flutter** & **React Native** on the Mobile. I live in **Kigali**, **Rwanda**, and have **4** years of professional experience in software development. 
+I'm a UX/UI Designer && **Software Engineer** specializing in **React** & **Vue** on the Front-End, **Node.js** & **Django** on the Back-End, **Flutter** & **React Native** on the Mobile. I live in **Kigali**, **Rwanda**, and have **4** years of professional experience in software development. 
 
 I enjoy working in a **friendly environment** that challenges me to grow with **technical** and **soft** skills.
 
