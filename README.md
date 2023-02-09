@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/4025933c-84c6-4f67-aacc-116e42e05bb9.svg)](https://wakatime.com/@4025933c-84c6-4f67-aacc-116e42e05bb9)
 
-I'm a UX/UI Designer & **Software Engineer** specializing in **React** & **Vue** on the Front-End, **Node.js** & **Django** on the Back-End, **Flutter** & **React Native** on the Mobile. I live in **Kigali**, **Rwanda**, and have **4** years of professional experience in software development. 
-
-I enjoy working in a **friendly environment** that challenges me to grow with **technical** and **soft** skills.
+As an experienced Software Engineer, I excel in designing and building robust and scalable web and mobile applications using React, Vue, Node.js, Django, Flutter, and React Native. My years of professional experience in software development, combined with my passion for continuously improving my technical and soft skills, have equipped me with a unique blend of technical expertise and problem-solving abilities. Based in Kigali, Rwanda, I thrive in a collaborative and supportive work environment where I can continuously grow and challenge myself.
 
 #### LANGUAGES
 
