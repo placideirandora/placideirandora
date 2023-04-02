@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/4025933c-84c6-4f67-aacc-116e42e05bb9.svg)](https://wakatime.com/@4025933c-84c6-4f67-aacc-116e42e05bb9)
 
-As an experienced Software Engineer, I excel in designing and building robust and scalable web and mobile applications using React, Vue, Node.js, Django, Flutter, and React Native. My four years of professional experience in software development, combined with my passion for continuously improving my technical and soft skills, have equipped me with a unique blend of technical expertise and problem-solving abilities. Based in Kigali, Rwanda, I thrive in a collaborative and supportive work environment where I can continuously grow and challenge myself.
+As a Software Engineer with expertise in frontend, backend, and mobile development, I am dedicated to writing maintainable and high-performing code. I specialize in building user-friendly applications using cutting-edge tools and technologies such as React, Next, Vue, Nuxt, Node, Nest, Django, Flutter, and React Native.
+
+My experience in building applications that meet and exceed clients' expectations has equipped me with the necessary skills to deliver exceptional results. I have a keen eye for detail and thrive in challenging and collaborative environments where I can continuously improve my technical and soft skills.
+
+Whether it's designing, developing, testing, or deploying applications, I am passionate about every aspect of the software development life cycle. I am committed to staying up-to-date with the latest industry trends and best practices to ensure that my work is always of the highest quality.
+
+If you're looking for a Software Engineer who can build efficient, user-friendly, and maintainable applications across various platforms, look no further. Let's collaborate to achieve your business goals and create exceptional user experiences.
 
 #### LANGUAGES
 
