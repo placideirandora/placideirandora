@@ -98,4 +98,5 @@ Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/p
 📫 Reach me on [Twitter](https://twitter.com/placideirandora) and [LinkedIn](https://www.linkedin.com/in/placideirandora/).
 
 
+<a href="https://app.daily.dev/placideirandora"><img src="https://api.daily.dev/devcards/1761d7411bc843528f9bddf472831a0b.png?r=gzc" width="400" alt="Placide IRANDORA's Dev Card"/></a>
 
