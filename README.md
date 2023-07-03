@@ -51,6 +51,7 @@ If you're looking for a Software Engineer who can build efficient, user-friendly
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)\
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+<!--
 #### DATABASE SYSTEMS
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)\
@@ -58,12 +59,14 @@ If you're looking for a Software Engineer who can build efficient, user-friendly
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)\
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)\
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
 
 #### MOBILE FRAMEWORKS
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)\
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<!--
 #### DEVOPS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)\
@@ -78,11 +81,13 @@ If you're looking for a Software Engineer who can build efficient, user-friendly
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)\
 ![Google Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)\
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+-->
 
-
+<!--
 ### Vision as a UX/UI Designer
 
 Designing products that are useful and beautiful.
+-->
 
 ### Vision as a Software Engineer
 
@@ -97,6 +102,6 @@ Check out my up-to-date work history on [LinkedIn](https://www.linkedin.com/in/p
 
 📫 Reach me on [Twitter](https://twitter.com/placideirandora) and [LinkedIn](https://www.linkedin.com/in/placideirandora/).
 
-
+<!--
 <a href="https://app.daily.dev/placideirandora"><img src="https://api.daily.dev/devcards/1761d7411bc843528f9bddf472831a0b.png?r=gzc" width="400" alt="Placide IRANDORA's Dev Card"/></a>
-
+-->
