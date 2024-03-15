@@ -24,6 +24,14 @@ Whether it's designing, developing, testing, or deploying applications, I am pas
 
 If you're looking for a Software Engineer who can build efficient, user-friendly, and maintainable applications across various platforms, look no further. Let's collaborate to achieve your business goals and create exceptional user experiences.
 
+#### MISSION
+
+Delivering secure and high-quality software solutions through continuous innovation and expertise.
+
+#### VISION
+
+Revolutionizing software development with unmatched standards of security, quality, and innovation.
+
 #### LANGUAGES
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)\
