@@ -26,7 +26,7 @@ If you're looking for a Software Engineer who can build efficient, user-friendly
 
 #### MISSION
 
-Delivering secure and high-quality software solutions through continuous innovation and expertise.
+Delivering high-quality and secure software solutions through continuous innovation and expertise.
 
 #### VISION
 
